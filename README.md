@@ -1,1 +1,1 @@
-# Peristaltic_Actuator
+# Bio-Inspired Modular Pneumatic Actuator for Peristaltic Transport
