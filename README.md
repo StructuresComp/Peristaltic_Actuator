@@ -2,7 +2,7 @@
 
 ## Overview
 
-This projects introduces a bio-inspired soft robotic actuator for object transport through tubular structures. Simulations and experiments show optimal performance with objects larger than half the ring's inner diameter, enabling efficient, modular solutions for diverse applications.
+This projects introduces a bio-inspired soft robotic actuator for object transport through perstalitic process. 
 <div align="center">
   <img src="assets/demo.gif" alt="Grasp and transport">
 </div>
