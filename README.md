@@ -8,4 +8,4 @@ This projects introduces a bio-inspired soft robotic actuator for object transpo
 </div>
 
 ## Simulations files 
-Please find our simulations files here: https://drive.google.com/drive/folders/1SsrhAsbxI_-phNl0O316Vk6F6cME5XoY?usp=sharing
+Please find our simulations files [here](https://drive.google.com/drive/folders/1SsrhAsbxI_-phNl0O316Vk6F6cME5XoY?usp=sharing)
